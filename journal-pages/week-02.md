@@ -14,7 +14,7 @@ In class, I recreated a simple visual pattern based on the lecture slides. The c
 
 Through this process, I started to understand how simple visual elements such as colour contrast, layering and alignment can communicate structure clearly. Recreating the example also helped me gain confidence using the software and preparing images for documentation in my journal.
 
-![](../assets/week02-pattern.png) 
+![](../assets/week02 pattern.png) 
 
 Recreated visual composition from lecture example
 
