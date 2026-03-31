@@ -8,17 +8,16 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+This week I set up my making journal environment using GitHub, GitHub Desktop and VS Code. I followed the course template instructions and connected my repository to GitHub Pages so that my weekly journal can be published as a website. This helped me understand how the journal will be updated throughout the semester.
 
-## Images & Media
+In class, I recreated a simple visual pattern based on the lecture slides. The composition included a black background on the top, a green block on the bottom, and a yellow circle in the centre. I rebuilt the layout step by step using the same software demonstrated in class. This exercise helped me become more familiar with positioning shapes and adjusting colours precisely.
 
-*Use the format below to embed images from your assets folder:*
+Through this process, I started to understand how simple visual elements such as colour contrast, layering and alignment can communicate structure clearly. Recreating the example also helped me gain confidence using the software and preparing images for documentation in my journal.
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![](../assets/week-02/截图2026-04-01 下午12.10.54.png) 
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+Recreated visual composition from lecture example
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+I used ChatGPT to help structure and refine my weekly journal writing. All practical setup steps and visual reconstruction were completed by myself.
