@@ -13,7 +13,8 @@ All responses were written anonymously on individual post-it notes. This allowed
 
 The collected responses formed the dataset used to construct the collective portrait. 
 
-<img src="../assets/week-01/Week1 img1.jpg" width="800"> </center> <center><sub> Figure 1. Collective group data portrait</sub>
+<img src="../assets/week-01/Week1 img1.jpg" width="800">  </center> <center><sub>
+Figure 1. Collective group data portrait</sub>
 
 ### Visual Encoding Strategy
 After collecting the responses, we translated the dataset into a shared visual system.
