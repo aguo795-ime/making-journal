@@ -10,22 +10,29 @@ This week I explored how to create visual compositions using p5.js and experimen
 Figure 1. Initial p5.js composition using basic shapes to explore colour contrast and spatial layout.</sub></center> <br> 
 
 
+
 In this activity, I created a simple composition using multiple shapes such as rectangles and circles. I experimented with adjusting colour, size, and position to observe how these changes affected visual balance. I also modified the original semi-circle into a full circle to make the composition more stable and centred. This helped me understand how layering and placement influence hierarchy in a digital drawing.
 
 ### Activity 2: Creating Interactive Sketches
 
-<img src="../assets/week-02/Week2 img2.png" width="800">  </center> <center><sub>Figure 2. Modified composition with a full white circle and a black–red background to strengthen visual hierarchy.</sub></center> <br> 
+<img src="../assets/week-02/Week2 img2.png" width="800">  </center> <center><sub>
+Figure 2. Modified composition with a full white circle and a black–red background to strengthen visual hierarchy.</sub></center> <br> 
+
 
 For this task, I introduced interaction by adding a button that changes the colour of the circle when clicked. I also explored dividing the background into two contrasting sections using black and red to strengthen visual contrast. This activity showed how simple DOM elements such as buttons can make static graphics more responsive and engaging for users.
 
 ### Activity 3: Vibe Coding with AI Assistance
 
-<img src="../assets/week-02/Week2 img3.png" width="800">  </center> <center><sub>Figure 3. Interactive sketch where button input changes the colour of the circle dynamically.</sub></center> <br> 
+<img src="../assets/week-02/Week2 img3.png" width="800">  </center> <center><sub>
+Figure 3. Interactive sketch where button input changes the colour of the circle dynamically.</sub></center> <br> 
+
 
 In this experiment, I used AI assistance to help generate and adjust p5.js code for creating interactive visual outputs. By testing different variations of shapes and colour changes, I learned how coding instructions affect visual behaviour. This process helped me understand how AI tools can support creative coding by suggesting solutions and speeding up experimentation.
 
 
-<img src="../assets/week-02/Week2 img4.png" width="800"> </center> <center><sub>Figure 4. Iterative exploration of multiple coloured elements to test variation and responsiveness in the visual system.</sub></center> <br> 
+<img src="../assets/week-02/Week2 img4.png" width="800"> </center> <center><sub>
+Figure 4. Iterative exploration of multiple coloured elements to test variation and responsiveness in the visual system.</sub></center> <br> 
+
 
 In this independent study task, I translated my hand-drawn data portrait from Week 01 into an interactive p5.js sketch. Instead of presenting the data as a fixed visual composition, I explored how interaction could allow viewers to experience variations in the data through colour and positional changes.
 
