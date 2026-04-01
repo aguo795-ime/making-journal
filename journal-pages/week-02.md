@@ -6,7 +6,8 @@
 This week I explored how to create visual compositions using p5.js and experimented with DOM elements to introduce interaction. Through these activities, I learned how shapes, colour relationships, and user input can influence visual outcomes and make digital drawings more dynamic.
 
 ### Activity 1: Drawing with Code
-<img src="../assets/week-02/Week2 img1.png" width="800"> Figure 1. Initial p5.js composition using basic shapes to explore colour contrast and spatial layout.</sub></center> <br> 
+<img src="../assets/week-02/Week2 img1.png" width="800"> 
+Figure 1. Initial p5.js composition using basic shapes to explore colour contrast and spatial layout.</sub></center> <br> 
 
 
 In this activity, I created a simple composition using multiple shapes such as rectangles and circles. I experimented with adjusting colour, size, and position to observe how these changes affected visual balance. I also modified the original semi-circle into a full circle to make the composition more stable and centred. This helped me understand how layering and placement influence hierarchy in a digital drawing.
