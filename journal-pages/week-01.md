@@ -12,8 +12,10 @@ Each group member responded to five short questions designed to capture small as
 All responses were written anonymously on individual post-it notes. This allowed the dataset to remain personal while removing direct identification, encouraging interpretation through visual encoding rather than labels.
 
 The collected responses formed the dataset used to construct the collective portrait. 
-<img src="../assets/Week-01/Week1 img1.jpg" width="800"> <sub>
+
+<p align="center"> <img src="../assets/week-01/Week1 img1.JPG" width="800"> <br> <sub>
 Figure 1. Group data portrait created using shapes, colour, and spatial arrangement to represent responses from each participant.</sub> 
+</sub> </p>
 
 ### Visual Encoding Strategy
 After collecting the responses, we translated the dataset into a shared visual system.
@@ -24,8 +26,9 @@ A legend was included to explain the encoding system so that viewers could inter
 
 Through this process, the drawing became not only a representation of data but also a visual interpretation of group dynamics.
 
-<img src="../assets/Week-01/Week1 img2.jpg" width="800"> <sub>
+<p align="center"> <img src="../assets/week-01/Week1 img2.JPG" width="800"> <br> <sub>
 Figure 2. Translation process from questionnaire responses into visual variables such as position, size, and colour.</sub> 
+</sub> </p>
 
 ### Interpretation and Decoding
 
@@ -67,8 +70,10 @@ The vertical position of each circle corresponds to my waking time. Earlier waki
 Colour represents the level of urgency in my cat’s behaviour. Blue indicates calm interactions, orange represents slightly more active behaviour, and red marks moments when my cat appeared more urgent in seeking attention or food.
 
 ### Final Data Drawing
-<img src="../assets/Week-01/Week1 img3.jpg" width="800"> <sub>
+
+<p align="center"> <img src="../assets/week-01/Week1 img3.JPG" width="800"> <br> <sub>
 Figure 3. Final collective composition combining all responses into a shared visual language.</sub><br> <center> 
+</sub> </p>
 
 ### Reflection
 
