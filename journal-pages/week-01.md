@@ -13,7 +13,7 @@ All responses were written anonymously on individual post-it notes. This allowed
 
 The collected responses formed the dataset used to construct the collective portrait. 
 
-<p align="center"> <img src="../assets/week-01/Week1 img1.jpg" width="800"> <br> <sub>
+<p align="center"> <img src="../assets/Week-01/Week1 img1.jpg" width="800"> <br> <sub>
 Figure 1. Group data portrait created using shapes, colour, and spatial arrangement to represent responses from each participant.</sub></p>
 
 ### Visual Encoding Strategy
@@ -25,7 +25,7 @@ A legend was included to explain the encoding system so that viewers could inter
 
 Through this process, the drawing became not only a representation of data but also a visual interpretation of group dynamics.
 
-<p align="center"> <img src="../assets/week-01/Week1 img2.jpg" width="800"> <br> <sub>
+<p align="center"> <img src="../assets/Week-01/Week1 img2.jpg" width="800"> <br> <sub>
 Figure 2. Translation process from questionnaire responses into visual variables such as position, size, and colour.</sub> 
 </sub> </p>
 
@@ -70,7 +70,7 @@ Colour represents the level of urgency in my cat’s behaviour. Blue indicates c
 
 ### Final Data Drawing
 
-<p align="center"> <img src="../assets/week-01/Week1 img3.jpg" width="800"> <br> <sub>
+<p align="center"> <img src="../assets/Week-01/Week1 img3.jpg" width="800"> <br> <sub>
 Figure 3. Final collective composition combining all responses into a shared visual language.</sub><br> <center> 
 </sub> </p>
 
