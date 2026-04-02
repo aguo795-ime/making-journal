@@ -8,7 +8,7 @@ This week I explored live data through a digital approach in p5.js. I wanted to 
 
 Rather than presenting weather as plain numbers or text, I wanted to translate it into mood, colour, and movement. This helped me think about how live data can become part of a design language and communicate information in a more emotional and engaging way.
 
-<p align="center"> <img src="../assets/week-03/Week4 img1.png" width="600"> <br> <sub>Figure 1. Initial p5.js sketch interface showing the development of the weather-responsive cat character using basic geometric forms.
+<p align="center"> <img src="../assets/week-03/Week3 img1.png" width="600"> <br> <sub>Figure 1. Initial p5.js sketch interface showing the development of the weather-responsive cat character using basic geometric forms.
 </sub> </p>
 
 ### Activity 1: Exploring Live Data Sources
