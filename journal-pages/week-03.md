@@ -41,7 +41,9 @@ Figure 4. Mapping wind speed data to whisker movement to introduce subtle motion
 Figure 5. Mapping humidity values to atmospheric softness effects surrounding the character.
 </sub> </p>
 
-Through this process, I began to see live data not only as information but as behaviour. The sketch was no longer a fixed image. Instead, it became something dynamic that could visually react to the environment.
+Through this process, I began to understand live data not only as information but as behaviour.
+This mapping strategy allowed environmental data to function as a dynamic interaction system rather than a static representation.
+The sketch was no longer a fixed image. Instead, it became something dynamic that could visually react to the environment.
 
 ### Design Decisions and Mapping
 
@@ -49,13 +51,14 @@ One of the most important parts of this experiment was deciding how to map abstr
 
 I chose to use the cat as a visual metaphor because characters can communicate emotion very effectively. A slight change in colour, expression, or movement can suggest a different mood immediately. This made the design more engaging than a conventional chart. It also connected well to my interest in brand identity and graphic communication, because the outcome felt closer to a visual identity system than a standard data visualisation.
 
-My mapping strategy was based on the following ideas:
-temperature controls colour
-weather condition controls mood or expression
-wind controls movement
-humidity controls visual softness or heaviness
-
-This approach allowed me to transform invisible environmental data into a more intuitive and playful visual language.
+My mapping strategy translated environmental variables into behavioural visual parameters through the following structure:
+Temperature controlled colour to represent thermal variation across environments.
+Weather conditions influenced mood or facial expression to communicate atmospheric change.
+Wind speed controlled movement to introduce responsiveness into the character interface.
+Humidity affected visual softness or heaviness to suggest differences in environmental density.
+This structure allowed environmental variables to function as behavioural inputs rather than static numerical values.
+This approach positioned live data as an active design material rather than a passive source of information.
+This approach allowed invisible environmental data to become perceptible through character behaviour rather than numerical representation.
 
 ### What the Work Reveals
 
@@ -76,8 +79,7 @@ I also found that testing different values was important. Small adjustments in s
 
 ### Relation to Practitioner Examples
 
-This experiment relates to the practitioner examples discussed in class because it transforms live data into a more experiential form. Rather than displaying weather as text alone, I translated it into a visual and emotional system. This connects to the idea that live data can become material for expression, not just information. Similar to how practitioners use motion, installation, or systems to reveal changing conditions, my project uses a character-based interface to communicate environmental change in a more playful and accessible way.
-
+This experiment relates to the practitioner examples discussed in class because it transforms live data into a more experiential form. Rather than displaying weather as text alone, I translated it into a visual and emotional system. This connects to the idea that live data can become material for expression, not just information. Similar to how practitioners use motion, installation, or systems to reveal changing conditions, my project uses a character-based interface to communicate environmental change in a more playful and accessible way. This comparison helped me understand how live data visualisation can operate as an experiential interface rather than a purely descriptive display.
 
 ### What I Would Develop Further
 
