@@ -16,15 +16,15 @@ In this activity, I created a simple composition using multiple shapes such as r
 
 <p align="center"> <img src="../assets/week-02/Week2 img2.png" width="800"> <br> <sub>Figure 2. Modified composition with a full white circle and a black–red background to strengthen visual hierarchy.</sub> </p>
 
-For this task, I introduced interaction by adding a button that changes the colour of the circle when clicked. I also explored dividing the background into two contrasting sections using black and red to strengthen visual contrast. This activity showed how simple DOM elements such as buttons can make static graphics more responsive and engaging for users.This helped me understand how even minimal interaction can shift a composition from being purely observational to participatory.
+For this task, I introduced interaction by adding a button that changes the colour of the circle when clicked. I also explored dividing the background into two contrasting sections using black and red to strengthen visual contrast. This activity showed how simple DOM elements such as buttons can make static graphics more responsive and engaging for users. This helped me understand how even minimal interaction can shift a composition from being purely observational to participatory.
 
 ### Activity 3: Vibe Coding with AI Assistance
 
 <p align="center"> <img src="../assets/week-02/Week2 img3.png" width="800"> <br> <sub>Figure 3. Interactive sketch where button input changes the colour of the circle dynamically.</sub> </p>
 
-In this experiment, I used AI assistance to help generate and adjust p5.js code for creating interactive visual outputs. By testing different variations of shapes and colour changes, I learned how coding instructions affect visual behaviour. This process helped me understand how AI tools can support creative coding by suggesting solutions and speeding up experimentation.
+In this experiment, I used AI assistance to help generate and adjust p5.js code for creating interactive visual outputs. By testing different variations of shapes and colour changes, I learned how coding instructions affect visual behaviour. This process helped me understand how AI tools can support creative coding by suggesting solutions and speeding up experimentation. This experiment also helped me understand how AI can support rapid prototyping during early-stage interaction design rather than replacing the creative decision-making process.
 
-
+### Activity 4: Translating Analogue Drawing into Code
 <p align="center"> <img src="../assets/week-02/Week2 img4.png" width="800"> <br> <sub>Figure 4. Iterative exploration of multiple coloured elements to test variation and responsiveness in the visual system.</sub> </p>
 
 In this independent study task, I translated my hand-drawn data portrait from Week 01 into an interactive p5.js sketch. Instead of presenting the data as a fixed visual composition, I explored how interaction could allow viewers to experience variations in the data through colour and positional changes.
@@ -36,7 +36,7 @@ Through this iteration, I also explored how interaction could make personal data
 
 ### Reflection
 
-Through these activities, I developed a better understanding of how programming can be used as a design tool rather than only a technical skill. I explored how shape placement, colour contrast, and interaction can influence visual communication. Compared with static drawings, interactive sketches allow users to participate in the visual experience. This process helped me see how p5.js can be used to create responsive and flexible visual compositions.Through this process, I began to see code not only as a way to construct visuals, but as a framework for structuring relationships between data, interaction, and perception.
+Through these activities, I developed a better understanding of how programming can be used as a design tool rather than only a technical skill. I explored how shape placement, colour contrast, and interaction can influence visual communication. Compared with static drawings, interactive sketches allow users to participate in the visual experience. This process helped me see how p5.js can be used to create responsive and flexible visual compositions. Through this process, I began to see code not only as a way to construct visuals, but as a framework for structuring relationships between data, interaction, and perception.
 
 ### AI Tools
 
