@@ -86,6 +86,6 @@ In designing the visualisation, I chose to emphasise waking time, duration of in
 
 This exercise relates to ideas from data humanism and the Dear Data project by treating everyday experience as a meaningful dataset. Instead of measuring productivity or efficiency, the drawing represents a relational pattern between myself and my cat, showing how data visualisation can communicate subtle rhythms within daily life.
 
-### AI Usage Statement
+### AI Use Statement
 
 AI tools were used only to support translation, grammar refinement, and improvement of clarity and academic tone after the documentation had been completed independently. All datasets, observations, visual encoding strategies, sketches, mappings, and interaction decisions were produced by myself. Google Translate assisted with translation, while ChatGPT supported the organisation and refinement of written reflections rather than generating project content, visual material, or design outcomes.
