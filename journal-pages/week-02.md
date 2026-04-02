@@ -38,6 +38,6 @@ Through this iteration, I also explored how interaction could make personal data
 
 Through these activities, I developed a better understanding of how programming can be used as a design tool rather than only a technical skill. I explored how shape placement, colour contrast, and interaction can influence visual communication. Compared with static drawings, interactive sketches allow users to participate in the visual experience. This process helped me see how p5.js can be used to create responsive and flexible visual compositions. Through this process, I began to see code not only as a way to construct visuals, but as a framework for structuring relationships between data, interaction, and perception.
 
-### AI Tools
+### AI Use Statement
 
 AI tools were used only to support translation, grammar refinement, and improvement of clarity and academic tone after the documentation had been completed independently. All datasets, observations, visual encoding strategies, sketches, mappings, and interaction decisions were produced by myself. Google Translate assisted with translation, while ChatGPT supported the organisation and refinement of written reflections rather than generating project content, visual material, or design outcomes.
