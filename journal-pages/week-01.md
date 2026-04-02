@@ -70,7 +70,8 @@ Colour represents the level of urgency in my cat’s behaviour. Blue indicates c
 
 ### Final Data Drawing
 
-<p align="center"> <img src="../assets/week-01/Week1 img3.jpg" width="800"> <br> <sub>Figure 3. Personal data portrait showing the relationship between waking time and my cat’s response behaviour across one week.</sub> </p>
+<p align="center"> <img src="../assets/Week-01/Week1 img3.jpg" width="800"> <br> <sub>
+Figure 3. Personal data portrait showing the relationship between waking time and my cat’s response behaviour across one week.</sub></p>
 
 ### Reflection
 
