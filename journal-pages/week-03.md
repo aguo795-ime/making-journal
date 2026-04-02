@@ -27,7 +27,7 @@ For my independent study, I chose a digital approach and used p5.js to build a l
 
 In my sketch, different weather values controlled different parts of the composition. Temperature influenced the overall colour of the cat.
 
- <p align="center"> <img src="../assets/week-03/Week3 img3.png" width="600"> <br> <sub>
+ <p align="center"> <img src="../assets/week-03/Week3 img3.JPG" width="600"> <br> <sub>
 Figure 3. Testing how temperature values influence the colour of the cat through parameter mapping experiments.
 </sub> </p>
 
@@ -37,7 +37,7 @@ Figure 3. Testing how temperature values influence the colour of the cat through
 Figure 4. Mapping wind speed data to whisker movement to introduce subtle motion responding to environmental conditions.
 </sub> </p>
 
- <p align="center"> <img src="../assets/week-03/Week3 img5.JPG" width="600"> <br> <sub>
+ <p align="center"> <img src="../assets/week-03/Week3 img5.png" width="600"> <br> <sub>
 Figure 5. Mapping humidity values to atmospheric softness effects surrounding the character.
 </sub> </p>
 
