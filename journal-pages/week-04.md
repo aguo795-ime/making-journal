@@ -38,15 +38,15 @@ The dataset revealed clear seasonal patterns across the year as well as regional
 
 ### Designing Multiple Representations
 
-Version 1 explored a simple mapping between temperature values and colour changes in a cat character. Lower temperatures were represented using cooler blue tones, while higher temperatures shifted toward warmer red tones. This representation focused on clarity and readability by translating numerical variation into a visual gradient.
+Version 1 explored a simple mapping between temperature values and colour changes in a cat character. Lower temperatures were represented using cooler blue tones, while higher temperatures shifted toward warmer red tones. This mapping translated numerical variation into an intuitive perceptual gradient that could be interpreted immediately without reading values. This representation focused on clarity and readability by translating numerical variation into a visual gradient.
 
 <p align="center"> <img src="../assets/week-04/Week4 img6.png" width="600"> <br> <sub>Figure 6. Version 1 mapping experiment translating temperature values into colour changes in the weather-cat character.</sub> </p>
 
-Version 2 extended the dataset into an emotional visualisation by mapping temperature values to behavioural states of a cat character. Instead of presenting numerical differences directly, the design communicated environmental change through mood and expression, making the dataset more relatable and experiential.
+Version 2 extended the dataset into an emotional visualisation by mapping temperature values to behavioural states of a cat character. Instead of presenting numerical differences directly, the design communicated environmental change through mood and expression, making the dataset more relatable and experiential. This shift reframed temperature data as emotional atmosphere rather than quantitative measurement.
 
 <p align="center"> <img src="../assets/week-04/Week4 img7.png" width="600"> <br> <sub>Figure 7. Version 2 emotional mapping experiment representing temperature differences through character mood and expression.</sub> </p>
 
-Version 3 developed the concept into an interactive system where multiple environmental variables influenced different visual behaviours of the cat character. Temperature controlled colour, rainfall affected transparency, and wind introduced movement. This transformed the dataset into a responsive environmental interface rather than a static visualisation.
+Version 3 developed the concept into an interactive system where multiple environmental variables influenced different visual behaviours of the cat character. This multi-variable mapping transformed the dataset from a descriptive visualisation into a responsive environmental interaction system. Temperature controlled colour, rainfall affected transparency, and wind introduced movement. This transformed the dataset into a responsive environmental interface rather than a static visualisation.
 
 This progression from static colour mapping to multi-variable behavioural interaction allowed the dataset to shift from representation toward simulation of environmental experience.
 
@@ -60,7 +60,7 @@ Reading Data Feminism encouraged me to think more critically about how datasets 
 
 ### Reading Response: Māori Data Sovereignty
 
-Mikaere’s discussion of Māori data sovereignty reframed data as a strategic cultural resource rather than neutral information. This perspective highlighted the importance of considering who controls environmental data in Aotearoa and how datasets may carry cultural and political significance beyond technical measurement.
+Mikaere’s discussion of Māori data sovereignty reframed data as a strategic cultural resource rather than neutral information. This perspective highlighted the importance of considering who controls environmental data in Aotearoa and how datasets may carry cultural and political significance beyond technical measurement. This highlighted the importance of considering who environmental data represents and how visualisation choices influence whose perspectives become visible.
 
 ### Reflection
 
