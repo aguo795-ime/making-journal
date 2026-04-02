@@ -44,6 +44,8 @@ Version 2 extended the dataset into an emotional visualisation by mapping temper
 
 Version 3 developed the concept into an interactive system where multiple environmental variables influenced different visual behaviours of the cat character. Temperature controlled colour, rainfall affected transparency, and wind introduced movement. This transformed the dataset into a responsive environmental interface rather than a static visualisation.
 
+This progression from static colour mapping to multi-variable behavioural interaction allowed the dataset to shift from representation toward simulation of environmental experience.
+
 ### Critical Evaluation
 
 The AI initially suggested conventional visualisations such as bar charts and line graphs. I redirected the process toward character-based representations that communicate environmental conditions through emotion and behaviour. This demonstrated how AI tools often prioritise analytical clarity by default, while design intervention can shift outputs toward more experiential and interpretive outcomes.
@@ -59,6 +61,14 @@ Mikaere’s discussion of Māori data sovereignty reframed data as a strategic c
 ### Reflection
 
 Working with AI as a design tool helped accelerate my understanding of unfamiliar datasets and supported the rapid generation of multiple visual directions. However, the most meaningful outcomes emerged when I actively guided the process rather than accepting default outputs. Through this experiment I began to see how AI can function as a collaborative tool within design workflows, supporting both exploration and critical reflection.
+
+Working with AI shifted part of my process from trial-and-error searching toward conversational exploration, allowing me to test ideas more quickly and refine decisions earlier in the design stage.
+
+Rather than replacing my decision-making, AI functioned as a thinking partner that helped me clarify possibilities and evaluate alternative approaches during experimentation.
+
+This experience helped me understand AI not simply as a productivity tool, but as a medium that can reshape how designers explore, structure, and reflect on data-driven work.
+
+When using AI support for coding tasks, I compared suggested solutions with my own structure and adjusted parameters manually to better match my intended visual behaviour.
 
 ### AI Use Statement
 
