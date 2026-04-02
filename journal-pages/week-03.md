@@ -95,6 +95,6 @@ Figure 7. Comparison of multiple environmental conditions demonstrating how diff
 
 Overall, this experiment helped me understand that live data visualisation does not have to look like a graph or dashboard. It can also be expressive, playful, and character-driven. By combining p5.js, weather data, and visual branding ideas, I was able to create a project that felt both technically experimental and personally relevant to my own design interests. This made the task more enjoyable and also showed me how data can become part of a visual storytelling system.
 
-### AI Tools
+### AI Use Statement
 
-I used p5.js to build and test the visual behaviour of the sketch. I also used AI as a support tool to help refine my written reflection and present my ideas more clearly in a professional academic tone. The design concept, visual decisions, and experimentation process were developed by me, while AI was used to support the communication of that process.
+AI tools were used only to support translation, grammar refinement, and improvement of clarity and academic tone after the documentation had been completed independently. All datasets, observations, visual encoding strategies, sketches, mappings, and interaction decisions were produced by myself. Google Translate assisted with translation, while ChatGPT supported the organisation and refinement of written reflections rather than generating project content, visual material, or design outcomes.
