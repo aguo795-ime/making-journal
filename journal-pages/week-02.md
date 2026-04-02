@@ -40,4 +40,4 @@ Through these activities, I developed a better understanding of how programming 
 
 ### AI Tools
 
-AI tools were used in this experiment to support the refinement of written descriptions in the making journal. After completing the coding exercises and documenting the process independently, I used ChatGPT to improve clarity, structure, and academic tone in my reflections. The visual experiments, interaction design decisions, and p5.js sketches were developed by myself. AI assistance was used only to strengthen the articulation of ideas rather than to generate the project content.
+AI tools were used only to support translation, grammar refinement, and improvement of clarity and academic tone after the documentation had been completed independently. All datasets, observations, visual encoding strategies, sketches, mappings, and interaction decisions were produced by myself. Google Translate assisted with translation, while ChatGPT supported the organisation and refinement of written reflections rather than generating project content, visual material, or design outcomes.
