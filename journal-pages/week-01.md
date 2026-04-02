@@ -88,4 +88,4 @@ This exercise relates to ideas from data humanism and the Dear Data project by t
 
 ### AI Usage Statement
 
-AI tools were used only to refine grammar, clarity, and academic tone after the documentation was completed independently. The dataset, observations, visual encoding decisions, and final drawings were produced by myself.
+AI tools were used only to support translation, grammar refinement, and improvement of clarity and academic tone after the documentation had been completed independently. All datasets, observations, visual encoding strategies, sketches, mappings, and interaction decisions were produced by myself. Google Translate assisted with translation, while ChatGPT supported the organisation and refinement of written reflections rather than generating project content, visual material, or design outcomes.
