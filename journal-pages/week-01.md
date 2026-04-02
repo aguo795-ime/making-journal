@@ -71,7 +71,7 @@ Colour represents the level of urgency in my cat’s behaviour. Blue indicates c
 ### Final Data Drawing
 
 <p align="center"> <img src="../assets/Week-01/Week1 img3.jpg" width="800"> <br> <sub>
-Figure 3. Final collective composition combining all responses into a shared visual language.</sub><br> <center> 
+Personal data portrait showing the relationship between waking time and my cat’s response behaviour across one week.</sub><br> <center> 
 </sub> </p>
 
 ### Reflection
@@ -88,4 +88,4 @@ This exercise relates to ideas from data humanism and the Dear Data project by t
 
 ### AI Usage Statement
 
-I used ChatGPT to help refine the grammar and structure of this documentation.
+AI tools were used only to refine grammar, clarity, and academic tone after the documentation was completed independently. The dataset, observations, visual encoding decisions, and final drawings were produced by myself.
