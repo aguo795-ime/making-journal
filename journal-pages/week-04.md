@@ -76,5 +76,4 @@ When using AI support for coding tasks, I compared suggested solutions with my o
 
 ### AI Use Statement
 
-AI tools were used to support the organisation and refinement of this journal entry. ChatGPT assisted in clarifying weekly task requirements, structuring the workflow for the experiment, and improving the readability and academic tone of the written reflections. It also provided suggestions for documenting screenshots and visualisation steps clearly. In addition, ChatGPT supported the development of simple p5.js examples to test how environmental data variables such as temperature, rainfall, and wind could be mapped to colour, emotion, and movement in the weather-cat visualisation system. All design decisions, dataset selection, visual mappings, and experimentation outcomes were directed and evaluated independently by the author.
-
+AI tools were used only to support translation, grammar refinement, and improvement of clarity and academic tone after the documentation had been completed independently. All datasets, observations, visual encoding strategies, sketches, mappings, and interaction decisions were produced by myself. Google Translate assisted with translation, while ChatGPT supported the organisation and refinement of written reflections rather than generating project content, visual material, or design outcomes.
