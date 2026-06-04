@@ -33,8 +33,8 @@ The dataset is currently small and only represents a limited range of commuting 
 ### Visual Research and Precedent Study
 #### Reference 01: Dear Data
 
-Figure 1. Dear Data reference showing how everyday experience can be translated into a hand-drawn visual system.
-What draws me to it?
+![F1](../assets/week-06/Week6%20F1.jpg)
+
 
 I like how everyday experiences are transformed into hand-drawn visual systems. The work feels very personal and presents information in an interesting way.
 
@@ -45,8 +45,7 @@ It reinforces my interest in using hand-drawn methods to visualise everyday expe
 
 #### Reference 02: Nicholas Felton Annual Report
 
-Figure 2. Nicholas Felton Annual Report reference showing how personal data can be organised clearly through visual layout.
-What draws me to it?
+![F2](../assets/week-06/Week6%20F2.jpg)
 
 I like how personal information is organised very clearly.
 
@@ -57,8 +56,8 @@ It reinforces my idea that everyday activities can become meaningful data.
 
 #### Reference 03: London Underground Map
 
-Figure 3. London Underground Map reference showing how complex public transport information can be simplified into a clear network map.
-What draws me to it?
+![F3](../assets/week-06/Week6%20F3.jpg)
+
 
 I like how it simplifies a complex transport network into a clear and easy-to-read visual system.
 What can I learn from it?
@@ -108,7 +107,8 @@ Initial Concept Sketch
 I developed three early concept sketches.
 #### Concept Sketch 1: Daily Commuting Timeline
 
-Figure 4: Concept 1 timeline sketch showing a commuting journey from home to the University of Auckland through walking, waiting, bus travel, and arrival stages.
+![F4](../assets/week-06/Week6%20F4.jpg)
+
 
 This concept explores how commuting time could be represented through a hand-drawn timeline. Different journeys would be shown as a sequence of travel stages throughout the day.
 Focus:
@@ -118,8 +118,8 @@ Time comparison
 
 #### Concept Sketch 2: Public Transport Network Map
 
-Figure 5: Concept 2 transport network sketch exploring connections between locations, routes, and public transport infrastructure.
-This concept explores how Auckland public transport routes and stops could be represented through a simplified hand-drawn map. The focus is on route structures, connections, and movement across the city.
+![F5](../assets/week-06/Week6%20F5.jpg)
+
 Focus:
 Bus routes
 Bus stops
@@ -128,8 +128,7 @@ Movement
 
 #### Concept Sketch 3: Comparing Commuting Experiences
 
-Figure 6: Early concept sketch comparing commuting experiences of different students, focusing on routes, transport methods, and travel time.
-This concept explores how commuting experiences from different students could be compared through a hand-drawn visualisation. The focus is on travel routes, transport modes, and commuting time. Additional layers of information could be explored later as the project develops.
+![F6](../assets/week-06/Week6%20F6.jpg)
 
 Focus:
 Different students
