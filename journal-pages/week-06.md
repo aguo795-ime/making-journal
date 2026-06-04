@@ -33,7 +33,7 @@ The dataset is currently small and only represents a limited range of commuting 
 ### Visual Research and Precedent Study
 #### Reference 01: Dear Data
 
-![F1](../assets/week-06/Week6%20F1.jpg)
+![F1](../assets/week-06/Week6%20F1.png)
 
 Figure 1. Dear Data reference showing how everyday experience can be translated into a hand-drawn visual system.
 
