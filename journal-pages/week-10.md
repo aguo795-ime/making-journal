@@ -1,7 +1,9 @@
-Week 10
-In-Class Activities
-Progress Reports
+# Week 10
+## In-Class Activities
+### Progress Reports
 This week I shared the latest version of my project with peers and received feedback on the first draft of my commuting visualisation.
+
+![F10](../assets/week-010/Week9%20F1.jpg)
 
 F1: Early prototype exploring how physical materials can represent movement paths and connections.
 The current project compares the commuting experiences of three University of Auckland students using route information and travel time data.
