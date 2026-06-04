@@ -22,7 +22,7 @@ For this making sprint, I created three small visual experiments based on my con
 
 #### Experiment 1: Daily Commuting Timeline
 
-![F1](../assets/week-07/Week7%20F1.jpg)
+![F1](../assets/week-07/Week7%20F1.png)
 
 Figure 1: Experiment 1 timeline prototype testing the clarity of time-based commuting visualisation and identifying limitations in route representation.
 
@@ -30,14 +30,14 @@ I created a simple hand-drawn timeline showing different stages of a journey. Th
 
 #### Experiment 2: Public Transport Network Map
 
-![F2](../assets/week-07/Week7%20F2.jpg)
+![F2](../assets/week-07/Week7%20F2.png)
 
 Figure 2: Network map experiment exploring commuting connections between different suburbs and the University of Auckland.
 
 I created a simplified map showing bus routes and stops. This approach communicated movement and route structure well, but it focused more on the transport system than individual experiences.
 #### Experiment 3: Comparing Commuting Experiences
 
-![F3](../assets/week-07/Week7%20F3.jpg)
+![F3](../assets/week-07/Week7%20F3.png)
 
 Figure 3: Comparison test visualising multiple student commuting journeys to compare travel routes and total commuting times.
 
