@@ -1,15 +1,15 @@
 # Week 09
 ## In-Class Activities
 
-![F1](../assets/week-09/Week9%20F1.jpg)
+![F1](../assets/week-09/Week9%20F1.png)
 
 Figure 1. Route information collected for Student A.
 
-![F2](../assets/week-09/Week9%20F2.jpg)
+![F2](../assets/week-09/Week9%20F2.png)
 
 Figure 2. Route information collected for Student B.
 
-![F3](../assets/week-09/Week9%20F3.jpg)
+![F3](../assets/week-09/Week9%20F3.png)
 
 Figure 3. Route information collected for Student C.
 
@@ -24,7 +24,7 @@ The project combines public transport information with self-recorded commuting d
 This week I began creating the first version of the commuting map.
 I collected basic commuting information from three university students, including their travel routes, transport modes, and commuting times.
 
-![F4](../assets/week-09/Week9%20F4.jpg)
+![F4](../assets/week-09/Week9%20F4.png)
 
 Figure 4: Route mapping sketch comparing commuting journeys from different student locations to the University of Auckland.
 Using this information, I created an initial hand-drawn map showing the different journeys between home and the University of Auckland.
@@ -32,7 +32,7 @@ Using this information, I created an initial hand-drawn map showing the differen
 The focus of this version was on route structure and travel duration rather than detailed visual styling.
 What worked well?
 
-![F5](../assets/week-09/Week9%20F5.jpg)
+![F5](../assets/week-09/Week9%20F5.png)
 
 Figure 5: Data table summarising participant locations, transport modes, and total commuting times used for comparison and analysis.
 The shared starting point at the University of Auckland made the routes easier to compare.
@@ -65,31 +65,31 @@ Feedback 3:
 Response:
 I began testing different spacing and layout arrangements to improve readability.
 
-![F6](../assets/week-09/Week9%20F6.jpg)
+![F6](../assets/week-09/Week9%20F6.png)
 
 Figure 6: Documenting real-time public transport information displays during field observations.
 
-![F7](../assets/week-09/Week9%20F7.jpg)
+![F7](../assets/week-09/Week9%20F7.png)
 
 Figure 7: Observing timetable systems and route information within the public transport network.
 
-![F8](../assets/week-09/Week9%20F8.jpg)
+![F8](../assets/week-09/Week9%20F8.png)
 
 Figure 8: Recording passenger activity and waiting behaviour at the bus stop.
 
-![F9](../assets/week-09/Week9%20F9.jpg)
+![F9](../assets/week-09/Week9%20F9.png)
 
 Figure 9: Observing the spatial layout and circulation patterns around the transport hub.
 
-![F10](../assets/week-09/Week9%20F10.jpg)
+![F10](../assets/week-09/Week9%20F10.png)
 
 Figure 10: Documenting interactions between commuters and public transport infrastructure.
 
-![F11](../assets/week-09/Week9%20F11.jpg)
+![F11](../assets/week-09/Week9%20F11.png)
 
 Figure 11: Recording passenger movement and boarding activities during peak travel periods.
 
-![F12](../assets/week-09/Week9%20F12.jpg)
+![F12](../assets/week-09/Week9%20F12.png)
 
 Figure 12: Observing everyday commuting experiences within the urban transport environment.
 
