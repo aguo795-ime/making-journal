@@ -6,7 +6,7 @@ Looking back at the process, three key moments had the greatest influence on the
 
 #### Key Moment 1: Exploring Multiple Concepts
 
-![F1](../assets/week-011/Week11%20F1.jpg)
+![F1](../assets/week-011/Week11%20F1.png)
 
 Figure 1: Development of the refined commuting route model using colour-coded pathway connections.
 
@@ -14,14 +14,14 @@ In Week 6 and Week 7, I explored several possible directions for representing co
 
 #### Key Moment 2: Selecting Comparing Commuting Experiences
 
-![F2](../assets/week-011/Week11%20F2.jpg)
+![F2](../assets/week-011/Week11%20F2.png)
 
 Figure 2: Exploring route structure and layout to improve clarity and visual organisation.
 Choosing the Comparing Commuting Experiences concept helped give the project a clearer focus. This decision allowed me to combine route information, travel time, and personal experience within a single visual system.
 
 #### Key Moment 3: Introducing Emotional Data
 
-![F3](../assets/week-011/Week11%20F3.jpg)
+![F3](../assets/week-011/Week11%20F3.png)
 
 Figure 3: Integrating route labels and supporting information into the physical prototype.
 
@@ -44,7 +44,7 @@ The showcase planning process helped me think about the project from the perspec
 ## Independent Study
 ### Project Finalisation and Submission
 
-![F4](../assets/week-011/Week11%20F4.jpg)
+![F4](../assets/week-011/Week11%20F4.png)
 
 Figure 4: Final physical data visualisation prototype combining routes, labels, and comparative commuting data.
 
