@@ -2,11 +2,11 @@
 ## In-Class Activities
 ### Progress Reports
 
-![F1](../assets/week-08/Week8%20F1.jpg)
+![F1](../assets/week-08/Week8%20F1.png)
 
 Figure 1: Layout testing sketches exploring different arrangements for comparing commuting routes and travel experiences.
 
-![F2](../assets/week-08/Week8%20F2.jpg)
+![F2](../assets/week-08/Week8%20F2.png)
 
 Figure 2: Refined route visualisation concept showing connections between student home locations, transport modes, and the University of Auckland destination.
 
@@ -51,7 +51,7 @@ Began planning how multiple commuting routes could be compared within one visual
 #### Peer Feedback
 Feedback 1:
 
-![F3](../assets/week-08/Week8%20F3.jpg)
+![F3](../assets/week-08/Week8%20F3.png)
 
 "The comparison between different students is the most interesting part of the project because it shows how commuting experiences can vary."
 Response:
@@ -59,7 +59,7 @@ This encouraged me to focus more strongly on comparison as the central feature o
 
 Feedback 2:
 
-![F4](../assets/week-08/Week8%20F4.jpg)
+![F4](../assets/week-08/Week8%20F4.png)
 
 "The routes are easy to understand, but the layout could be simplified to make the information clearer."
 Response:
@@ -67,7 +67,7 @@ I simplified the map structure and reduced unnecessary visual elements.
 
 Feedback 3:
 
-![F5](../assets/week-08/Week8%20F5.jpg)
+![F5](../assets/week-08/Week8%20F5.png)
 
 "Using a shared starting point makes it easier to compare journeys."
 Response:
