@@ -34,7 +34,7 @@ The dataset is currently small and only represents a limited range of commuting 
 #### Reference 01: Dear Data
 
 ![F1](../assets/week-06/Week6%20F1.jpg)
-
+Figure 1. Dear Data reference showing how everyday experience can be translated into a hand-drawn visual system.
 
 I like how everyday experiences are transformed into hand-drawn visual systems. The work feels very personal and presents information in an interesting way.
 
@@ -46,6 +46,7 @@ It reinforces my interest in using hand-drawn methods to visualise everyday expe
 #### Reference 02: Nicholas Felton Annual Report
 
 ![F2](../assets/week-06/Week6%20F2.jpg)
+Figure 2. Nicholas Felton Annual Report reference showing how personal data can be organised clearly through visual layout.
 
 I like how personal information is organised very clearly.
 
@@ -57,7 +58,7 @@ It reinforces my idea that everyday activities can become meaningful data.
 #### Reference 03: London Underground Map
 
 ![F3](../assets/week-06/Week6%20F3.jpg)
-
+Figure 3. London Underground Map reference showing how complex public transport information can be simplified into a clear network map.
 
 I like how it simplifies a complex transport network into a clear and easy-to-read visual system.
 What can I learn from it?
@@ -108,7 +109,7 @@ I developed three early concept sketches.
 #### Concept Sketch 1: Daily Commuting Timeline
 
 ![F4](../assets/week-06/Week6%20F4.jpg)
-
+Figure 4: Concept 1 timeline sketch showing a commuting journey from home to the University of Auckland through walking, waiting, bus travel, and arrival stages.
 
 This concept explores how commuting time could be represented through a hand-drawn timeline. Different journeys would be shown as a sequence of travel stages throughout the day.
 Focus:
@@ -119,6 +120,7 @@ Time comparison
 #### Concept Sketch 2: Public Transport Network Map
 
 ![F5](../assets/week-06/Week6%20F5.jpg)
+Figure 5: Concept 2 transport network sketch exploring connections between locations, routes, and public transport infrastructure.
 
 Focus:
 Bus routes
@@ -129,6 +131,7 @@ Movement
 #### Concept Sketch 3: Comparing Commuting Experiences
 
 ![F6](../assets/week-06/Week6%20F6.jpg)
+Figure 6: Early concept sketch comparing commuting experiences of different students, focusing on routes, transport methods, and travel time.
 
 Focus:
 Different students
