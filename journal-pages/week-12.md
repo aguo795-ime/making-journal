@@ -1,24 +1,7 @@
----
-layout: default
----
+# Daily Commute
+## Visualising Time, Movement and Emotion in Everyday Travel
 
-# Week 12
+#### Project Description
+This project investigates everyday commuting experiences through data visualisation. Data relating to travel time, transport methods, and emotional responses were collected and analysed to identify patterns within daily journeys. The final visualisation combines hand-drawn elements and mapping techniques to communicate these experiences in a more personal and engaging way. The project aims to make everyday commuting patterns visible and encourage reflection on how travel affects people's daily lives.
 
-[← Back to Home](../index.md)
-
-## Documentation 
-
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+#### Final Physical Prototype
