@@ -46,7 +46,7 @@ It reinforces my interest in using hand-drawn methods to visualise everyday expe
 
 #### Reference 02: Nicholas Felton Annual Report
 
-![F2](../assets/week-06/Week6%20F2.jpg)
+![F2](../assets/week-06/Week6%20F2.png)
 
 Figure 2. Nicholas Felton Annual Report reference showing how personal data can be organised clearly through visual layout.
 
@@ -59,7 +59,7 @@ It reinforces my idea that everyday activities can become meaningful data.
 
 #### Reference 03: London Underground Map
 
-![F3](../assets/week-06/Week6%20F3.jpg)
+![F3](../assets/week-06/Week6%20F3.png)
 
 Figure 3. London Underground Map reference showing how complex public transport information can be simplified into a clear network map.
 
@@ -111,7 +111,7 @@ Initial Concept Sketch
 I developed three early concept sketches.
 #### Concept Sketch 1: Daily Commuting Timeline
 
-![F4](../assets/week-06/Week6%20F4.jpg)
+![F4](../assets/week-06/Week6%20F4.png)
 
 Figure 4: Concept 1 timeline sketch showing a commuting journey from home to the University of Auckland through walking, waiting, bus travel, and arrival stages.
 
@@ -123,7 +123,7 @@ Time comparison
 
 #### Concept Sketch 2: Public Transport Network Map
 
-![F5](../assets/week-06/Week6%20F5.jpg)
+![F5](../assets/week-06/Week6%20F5.png)
 
 Figure 5: Concept 2 transport network sketch exploring connections between locations, routes, and public transport infrastructure.
 
@@ -135,7 +135,7 @@ Movement
 
 #### Concept Sketch 3: Comparing Commuting Experiences
 
-![F6](../assets/week-06/Week6%20F6.jpg)
+![F6](../assets/week-06/Week6%20F6.png)
 
 Figure 6: Early concept sketch comparing commuting experiences of different students, focusing on routes, transport methods, and travel time.
 
