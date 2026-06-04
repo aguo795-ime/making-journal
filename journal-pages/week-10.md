@@ -28,7 +28,7 @@ After reviewing the feedback, I identified several actions for the next stage of
 The most important feedback suggested that the project should communicate more than route and time information.
 To address this, I decided to introduce emotional responses recorded during commuting journeys. This additional layer will help represent the personal experience behind each journey.
 
-![F2](../assets/week-10/Week10%20F1.png)
+![F2](../assets/week-10/Week10%20F2.png)
 
 Figure 2: Refined mapping experiment with a more organised route structure and clearer visual hierarchy.
 
