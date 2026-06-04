@@ -1,6 +1,6 @@
-Week6
-In-Class Activities
-Data Exploration
+#Week6
+##In-Class Activities
+###Data Exploration
 Data Source 1: Auckland Transport Information
 Source:
 Auckland Transport public transport information.
@@ -8,6 +8,7 @@ Data Includes:
 • Different bus routes
 • Different bus stops
 • Timetables
+*
 Structure:
 The data is organised by route, stop location, and estimated travel time.
 Limitations:
