@@ -6,18 +6,24 @@ Looking back at the process, three key moments had the greatest influence on the
 
 #### Key Moment 1: Exploring Multiple Concepts
 
-F1: Development of the refined commuting route model using colour-coded pathway connections.
+![F1](../assets/week-011/Week11%20F1.jpg)
+
+Figure 1: Development of the refined commuting route model using colour-coded pathway connections.
 
 In Week 6 and Week 7, I explored several possible directions for representing commuting data. Testing different concepts helped me understand the strengths and limitations of each approach before selecting a final direction.
 
 #### Key Moment 2: Selecting Comparing Commuting Experiences
 
-F2: Exploring route structure and layout to improve clarity and visual organisation.
+![F2](../assets/week-011/Week11%20F2.jpg)
+
+Figure 2: Exploring route structure and layout to improve clarity and visual organisation.
 Choosing the Comparing Commuting Experiences concept helped give the project a clearer focus. This decision allowed me to combine route information, travel time, and personal experience within a single visual system.
 
 #### Key Moment 3: Introducing Emotional Data
 
-F3: Integrating route labels and supporting information into the physical prototype.
+![F3](../assets/week-011/Week11%20F3.jpg)
+
+Figure 3: Integrating route labels and supporting information into the physical prototype.
 
 Adding emotional responses in Week 10 expanded the project beyond transport information. This helped communicate not only where people travel and how long journeys take, but also how different journeys can feel.
 After reviewing the journal, I found that documenting experiments and reflections helped me better understand how the project evolved over time.
@@ -38,7 +44,9 @@ The showcase planning process helped me think about the project from the perspec
 ## Independent Study
 ### Project Finalisation and Submission
 
-F4: Final physical data visualisation prototype combining routes, labels, and comparative commuting data.
+![F4](../assets/week-011/Week11%20F4.jpg)
+
+Figure 4: Final physical data visualisation prototype combining routes, labels, and comparative commuting data.
 
 This week I focused on finalising the project and preparing all required documentation.
 
