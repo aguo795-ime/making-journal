@@ -1,7 +1,7 @@
 # Week6
 ## In-Class Activities
 ### Data Exploration
-Data Source 1: Auckland Transport Information
+#### Data Source 1: Auckland Transport Information
 Source:
 Auckland Transport public transport information.
 Data Includes:
