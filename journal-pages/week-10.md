@@ -3,7 +3,7 @@
 ### Progress Reports
 This week I shared the latest version of my project with peers and received feedback on the first draft of my commuting visualisation.
 
-![F1](../assets/week-010/Week9%20F1.jpg)
+![F1](../assets/week-010/Week10%20F1.png)
 
 Figure 1: Early prototype exploring how physical materials can represent movement paths and connections.
 
@@ -28,7 +28,7 @@ After reviewing the feedback, I identified several actions for the next stage of
 The most important feedback suggested that the project should communicate more than route and time information.
 To address this, I decided to introduce emotional responses recorded during commuting journeys. This additional layer will help represent the personal experience behind each journey.
 
-![F2](../assets/week-010/Week9%20F1.png)
+![F2](../assets/week-010/Week10%20F1.png)
 
 Figure 2: Refined mapping experiment with a more organised route structure and clearer visual hierarchy.
 
@@ -42,7 +42,7 @@ Continue simplifying unnecessary elements.
 Independent Study
 Project Development
 
-![F3](../assets/week-010/Week9%20F3.png)
+![F3](../assets/week-010/Week10%20F3.png)
 
 Figure 3: Testing pathway intersections to understand how different routes connect within the system.
 
@@ -58,7 +58,7 @@ Stressed
 
 The goal was not to create a detailed emotional analysis, but to introduce a simple layer of personal experience that could be compared between journeys.
 
-![F4](../assets/week-010/Week9%20F4.png)
+![F4](../assets/week-010/Week10%20F4.png)
 
 Figure 4: Experimenting with alternative route configurations and network relationships.
 I tested several visual approaches and found that simple symbols and limited colour use were easier to understand than highly detailed graphics.
