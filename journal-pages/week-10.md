@@ -3,7 +3,7 @@
 ### Progress Reports
 This week I shared the latest version of my project with peers and received feedback on the first draft of my commuting visualisation.
 
-![F1](../assets/week-010/Week10%20F1.png)
+![F1](../assets/week-10/Week10%20F1.png)
 
 Figure 1: Early prototype exploring how physical materials can represent movement paths and connections.
 
